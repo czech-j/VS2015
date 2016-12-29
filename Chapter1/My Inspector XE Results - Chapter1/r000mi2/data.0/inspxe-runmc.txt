@@ -1,0 +1,57 @@
+
+=== Start: [2016/12/28 12:16:02] === 
+Analysis started...
+Result file: C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Chapter1\My Inspector XE Results - Chapter1\r000mi2\r000mi2.inspxe 
+Analysis started for C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Debug\Chapter1.exe (pid = 16280) 
+Loaded module: C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Debug\Chapter1.exe, address range [0x0x1240000-0x0x125efff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector XE 2016\bin32\dnclrprof.dll, address range [0x0xff80000-0x0xffc4fff], minimal analysis 
+Loaded module: C:\WINDOWS\System32\CRYPTBASE.dll, address range [0x0x74280000-0x0x74289fff] 
+Loaded module: C:\WINDOWS\System32\SspiCli.dll, address range [0x0x74290000-0x0x742adfff] 
+Loaded module: C:\WINDOWS\System32\KERNEL32.DLL, address range [0x0x742b0000-0x0x7438ffff] 
+Loaded module: C:\WINDOWS\System32\ucrtbase.dll, address range [0x0x74420000-0x0x744fffff] 
+Loaded module: C:\WINDOWS\System32\bcryptPrimitives.dll, address range [0x0x74830000-0x0x74889fff] 
+Loaded module: C:\WINDOWS\System32\RPCRT4.dll, address range [0x0x75cc0000-0x0x75d80fff] 
+Loaded module: C:\WINDOWS\System32\ole32.dll, address range [0x0x75d90000-0x0x75e79fff] 
+Loaded module: C:\WINDOWS\System32\gdi32full.dll, address range [0x0x75f10000-0x0x7606afff] 
+Loaded module: C:\WINDOWS\System32\IMM32.DLL, address range [0x0x768e0000-0x0x76904fff] 
+Loaded module: C:\WINDOWS\System32\sechost.dll, address range [0x0x76910000-0x0x76950fff] 
+Loaded module: C:\WINDOWS\System32\ADVAPI32.dll, address range [0x0x769c0000-0x0x76a36fff] 
+Loaded module: C:\WINDOWS\System32\GDI32.dll, address range [0x0x76a40000-0x0x76a6afff] 
+Loaded module: C:\WINDOWS\System32\KERNELBASE.dll, address range [0x0x76a70000-0x0x76c10fff] 
+Loaded module: C:\WINDOWS\System32\combase.dll, address range [0x0x76c40000-0x0x76e50fff], minimal analysis 
+Loaded module: C:\WINDOWS\System32\USER32.dll, address range [0x0x77430000-0x0x7758efff] 
+Loaded module: C:\WINDOWS\System32\msvcrt.dll, address range [0x0x77590000-0x0x7764dfff] 
+Loaded module: C:\WINDOWS\System32\win32u.dll, address range [0x0x77660000-0x0x77674fff] 
+Loaded module: C:\WINDOWS\SYSTEM32\ntdll.dll, address range [0x0x777d0000-0x0x77952fff] 
+Loaded module: C:\WINDOWS\SYSTEM32\VCRUNTIME140D.dll, address range [0x0xf240000-0x0xf25bfff] 
+Loaded module: C:\WINDOWS\SYSTEM32\ucrtbased.dll, address range [0x0xfd10000-0x0xfe82fff] 
+Loaded module: C:\WINDOWS\System32\kernel.appcore.dll, address range [0x0x75f00000-0x0x75f0cfff] 
+Process C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Debug\Chapter1.exe exited with code 0. Leak analysis starting. Please wait... 
+Unloaded module: C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Debug\Chapter1.exe 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\Inspector XE 2016\bin32\dnclrprof.dll 
+Unloaded module: C:\WINDOWS\System32\CRYPTBASE.dll 
+Unloaded module: C:\WINDOWS\System32\SspiCli.dll 
+Unloaded module: C:\WINDOWS\System32\KERNEL32.DLL 
+Unloaded module: C:\WINDOWS\System32\ucrtbase.dll 
+Unloaded module: C:\WINDOWS\System32\bcryptPrimitives.dll 
+Unloaded module: C:\WINDOWS\System32\RPCRT4.dll 
+Unloaded module: C:\WINDOWS\System32\ole32.dll 
+Unloaded module: C:\WINDOWS\System32\gdi32full.dll 
+Unloaded module: C:\WINDOWS\System32\IMM32.DLL 
+Unloaded module: C:\WINDOWS\System32\sechost.dll 
+Unloaded module: C:\WINDOWS\System32\ADVAPI32.dll 
+Unloaded module: C:\WINDOWS\System32\GDI32.dll 
+Unloaded module: C:\WINDOWS\System32\KERNELBASE.dll 
+Unloaded module: C:\WINDOWS\System32\combase.dll 
+Unloaded module: C:\WINDOWS\System32\USER32.dll 
+Unloaded module: C:\WINDOWS\System32\msvcrt.dll 
+Unloaded module: C:\WINDOWS\System32\win32u.dll 
+Unloaded module: C:\WINDOWS\SYSTEM32\ntdll.dll 
+Unloaded module: C:\WINDOWS\SYSTEM32\VCRUNTIME140D.dll 
+Unloaded module: C:\WINDOWS\SYSTEM32\ucrtbased.dll 
+Unloaded module: C:\WINDOWS\System32\kernel.appcore.dll 
+Completed analysis for C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Debug\Chapter1.exe 
+Application exit code: 0 
+Result file: C:\Users\HyperWorks.DAW\Documents\Visual Studio 2015\Projects\Chapter1\Chapter1\My Inspector XE Results - Chapter1\r000mi2\r000mi2.inspxe 
+Analysis completed
+=== End: [2016/12/28 12:16:10] === 

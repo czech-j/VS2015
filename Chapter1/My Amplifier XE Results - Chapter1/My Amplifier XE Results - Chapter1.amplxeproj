@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1482923784</timestamp>
+  <hostname>DAW</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Amplifier XE 2016 Update 3</product>
+  <buildNumber type="s32_t">463186</buildNumber>
+  <logicalCPUCount type="s32_t">20</logicalCPUCount>
+  <CPUFrequency type="s64_t">2300000000</CPUFrequency>
+ </rdmgr>
+</root>
